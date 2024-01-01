@@ -1,7 +1,3 @@
-Certainly! Here's a sample description for the project:
-
----
-
 **Project Name:** Document Recognition and Classification System
 
 **Description:**
